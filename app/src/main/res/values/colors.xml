@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/color_blue_400</color>
+    <color name="navigation_bg">@color/colorPrimary</color>
+    <color name="colorPrimaryDark">#c2c2c2</color>
+    <color name="colorAccent">#a3942e</color>
+    <color name="textColorPrimary">#4c4c4c</color>
+    <color name="windowBackground">#ffffff</color>
+    <color name="backgroundPrimary">#eaeaea</color>
+    <color name="background_dialog">#eaeaea</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="hintColor">#757575</color>
+    <color name="color_red_900">#a70606</color>
+    <color name="color_blue_400">#0097dc</color>
+    <color name="color_blue_400_opacity">#3229b6f6</color>
+    <color name="color_blue_700">#1976d2</color>
+    <color name="color_brown_100">#d7ccc8</color>
+    <color name="color_red_700">#d50000</color>e
+    <color name="color_lime_700">#a3942e</color>
+    <color name="color_yellow_400">#ffe900</color>
+    <color name="color_yellow_400_opacity">#32ffea00</color>
+    <color name="color_blue_200">#81d4fa</color>
+    <color name="color_lime_800">#a3942e</color>
+    <color name="color_lime_900">#827717</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_red_400">#ff0500</color>
+    <color name="color_red_400_opacity">#32ff0500</color>
+    <color name="color_brown_50">#eaeaea</color>
+    <color name="color_gray">#D9D9DA</color>
+    <color name="color_brown_200">#b0b0b0</color>
+    <color name="color_grey_800">#424242</color>
+    <color name="color_row">#4C4C4C</color>
+    <color name="color_grey_row">#cc000000</color>
+    <color name="color_grey_100">#d8d8d8</color>
+    <color name="color_grey_500">#979797</color>
+    <color name="color_gray_transparent">#8deaeaea</color>
+    <color name="color_gray_transparent_over">#b4464646</color>
+    <color name="color_icon">#4c4c4c</color><!--76 76 76-->
+
+    <color name="color_text_hint">#B0B0B0</color>
+    <color name="color_notify_message">#fcfee0</color>
+    <color name="color_notify_like">#fbe8f3</color>
+    <color name="color_notify_rating">#effee0</color>
+    <color name="color_tranparent_20">#33000000</color>
+    <color name="color_tranparent_50">#80000000</color>
+    <color name="color_amber_100">#fff4ab</color>
+    <color name="search_bar">#4a4a4a</color>
+
+    <color name="color_divider_listview">#eaeaea</color>
+    <color name="color_active_item">@color/search_bar</color>
+    <color name="color_deactive_item">@color/color_brown_200</color>
+
+    <!-- Search -->
+    <color name="color_bg_alert">#EFEEF4</color>
+
+    <!-- Chat -->
+    <color name="color_other_nacoder_chat">#fcfee0</color>
+    <color name="color_nacoder_chat">#edfbfa</color>
+    <color name="color_btn_pin_chat">#CA7A0B</color>
+    <color name="color_btn_delete_chat">#B60706</color>
+    <color name="color_teal_50">#d8f4ee</color>
+
+    <color name="color_blue_alpha">#6681d4fa</color>
+    <color name="color_gray_alpha">#66757575</color>
+    <color name="color_blue_grey_100">#d9d9da</color>
+
+</resources>
